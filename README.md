@@ -1,2 +1,3 @@
-# digital-clock
-Digital Clock Creating with Tailwind Css and Js
+# Digital Clock
+
+Digital Clock Creating with Tailwind CSS and JS
