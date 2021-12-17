@@ -1,8 +1,0 @@
-{
-  "name": "digital-clock",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/supermanshuvo/digital-clock.git",
-  "author": "Superman Shuvo <shuvothesuperman@gmail.com>",
-  "license": "MIT"
-}
